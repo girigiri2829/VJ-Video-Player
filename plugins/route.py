@@ -1,6 +1,4 @@
-# Don't Remove Credit @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+
 
 import re, math, logging, secrets, mimetypes, time
 from info import *
@@ -84,7 +82,7 @@ html_content = """
 </head>
 <body>
     <div class="container">
-        <h1>Welcome To VJ Disk!</h1>
+        <h1>Welcome To Gi Cartoons Network Disk!</h1>
         <p>Your ultimate destination for streaming and sharing videos!</p>
         <p>Explore a world of entertainment at your fingertips.</p>
         <button class="button" onclick="alert('Explore Now!')">Get Started</button>
